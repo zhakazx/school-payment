@@ -4,21 +4,11 @@ Sistem Aplikasi Pembayaran SPP (Sumbangan Pembinaan Pendidikan) berbasis web yan
 
 ## 🚀 Features
 
-### Implemented Modules (Phase 1)
+### Implemented Modules
 - ✅ **Authentication System** - Login/logout dengan session management
 - ✅ **Academic Year Management** - Kelola tahun ajaran dengan status aktif/non-aktif
 - ✅ **Class Management** - Kelola data kelas dan kompetensi keahlian
 - ✅ **Student Management** - Kelola data siswa dengan profil lengkap
-
-### Technical Features
-- ✅ Native PHP MVC Architecture (tanpa framework)
-- ✅ PDO Database dengan prepared statements
-- ✅ Password hashing dengan bcrypt
-- ✅ Session management dengan security
-- ✅ Clean CSS design (no gradients, no purple)
-- ✅ Responsive layout
-- ✅ Flash message system
-- ✅ Input sanitization
 
 ## 📋 Requirements
 
@@ -154,8 +144,6 @@ spp_app/
 
 Aplikasi ini menggunakan desain yang **clean dan professional** dengan prinsip:
 
-- ❌ **NO Gradients** - Hanya solid colors
-- ❌ **NO Purple Colors** - Menggunakan blues, greens, dan grays
 - ✅ **Clean Layout** - Minimalis dan mudah dibaca
 - ✅ **Responsive Design** - Mobile-friendly
 - ✅ **Professional Look** - Cocok untuk institusi pendidikan
@@ -251,10 +239,6 @@ Fitur yang akan ditambahkan di fase berikutnya:
 ## 📄 License
 
 This project is created for educational purposes.
-
-## 👨‍💻 Developer
-
-Developed with ❤️ using Native PHP MVC Architecture
 
 ---
 
